@@ -1,0 +1,6 @@
+depictsId: Q726
+name: horse
+limit: 500
+category: Category:Horses
+exclude:
+excludeRegex: "/(Videos|statues|sculpture|art|Fictional|SVG|Symbols)/i"
