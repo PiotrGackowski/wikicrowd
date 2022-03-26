@@ -1,9 +1,9 @@
 - depictsId: Q34486
   name: Helicopter
   limit: 500
-  category: Category:Views of helicopters
+  category: Category:Helicopters
   exclude:
-  excludeRegex: "/(Videos)/i"
+  excludeRegex: "/(Videos|art|parts|hangars)/i"
 
 - depictsId: Q206592
   name: Jet Aircraft
