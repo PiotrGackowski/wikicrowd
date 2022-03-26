@@ -1,6 +1,7 @@
 depictsId: Q144
 name: Domestic dog
-limit: 500
+limit: 1000
 category: Category:Dogs
 exclude:
+ - Category:Dogs in heraldry
 excludeRegex: "/(Videos|statues|sculpture|art)/i"
